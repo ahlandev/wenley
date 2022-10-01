@@ -39,11 +39,37 @@
     },
     {
       "app": "minecraft",
-      "title": "Food's Plus 3",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
+      "title": "WW2 Pack for Melon Playground",
+      "image": "https://top-mods.com/upload/000/u1/9/3/ww2-pack-photo-big.webp",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
       "path": "Download/FoodPlus.mcaddon",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "description": "New World War II pack!
+
+It includes:
+63 characters:
+- Africans
+- Americans
+- Brits
+- Soviets
+- Japanese
+- Greeks
+- Soldiers In Winter Camouflages
+- Soldiers in Forest Camouflages
+52+ different weapons:
+- 17 working
+- 30+ non-working
+- 3 grenades
+- 1 bomb
+- 1 mine
+- 6 edged weapons
+Lots of Different scenery. Both military and natural scenery. Not all of the scenery is in the screenshot, and not all of the characters.
+
+Notes:
+- all characters are single-layered
+- non-functional weapons will shoot with the "Parent" button
+- the bushes are buggy, may not work
+- some scenery will have to be enlarged and some scaled down.
+- all helmets are bulletproof"
     },
     {
       "app": "minecraft",
