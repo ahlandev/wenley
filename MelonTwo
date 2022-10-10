@@ -7,7 +7,7 @@
       "interstitial": "709ad6cb10242f12"
     },
       "fan": {
-      "active": false,
+      "active": true,
       "banner": "1259586688162954_1259931141461842",
       "native": "1259586688162954_1259931841461772",
       "interstitial": "1259586688162954_1259931304795159"
@@ -21,7 +21,7 @@
     },
     "admost": {
       "id": "6e550b48-1a60-4b9a-a76f-823360e744f3",
-      "active": true,
+      "active": false,
       "banner": "1821336c-6204-4bf7-8d93-acedf5bab87d",
       "native": "5eb47210-ee8e-45ee-839e-8448ea23f9d9",
       "interstitial": "5d8d4ea2-9e4a-4bc5-a023-c4a031747d67"
