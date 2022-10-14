@@ -2,10 +2,10 @@
   "ads": {
     "admost": {
       "active": true,
-      "id":"6cc8e89a-b52a-4e9a-bb8c-579f7ec538fe",
-      "banner": "86644357-21d0-45a4-906a-37262461df65",
-      "native": "0155f3d0-5de1-4b10-a48e-8d1d069436b9",
-      "interstitial": "f99e409b-f9ab-4a2e-aa9a-4d143e6809ae"
+      "id":"65251f2d-d5c8-4c76-9417-7bf4a3ab90bf",
+      "banner": "f11751a8-4aec-4c61-b9c4-ac8c31c37065",
+      "native": "5978ef09-dcef-4f27-939d-622f7d5dacf5",
+      "interstitial": "3ae79949-1c88-4409-98f2-0f0e89159609"
     },
     "max": {
       "active": false,
