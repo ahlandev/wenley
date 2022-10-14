@@ -1,7 +1,7 @@
 {
   "ads": {
     "admost": {
-      "active": true,
+      "active": false,
       "id":"65251f2d-d5c8-4c76-9417-7bf4a3ab90bf",
       "banner": "f11751a8-4aec-4c61-b9c4-ac8c31c37065",
       "native": "5978ef09-dcef-4f27-939d-622f7d5dacf5",
