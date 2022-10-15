@@ -1,16 +1,16 @@
 {
   "ads": {
     "max": {
-      "active": true,
+      "active": false,
       "banner": "bd756272d761df70",
       "native": "1460173b95cdbc7d",
       "interstitial": "6a56aca3dce6b031"
     },
       "fan": {
-      "active": false,
-      "banner": "1259586688162954_1259931141461842",
-      "native": "1259586688162954_1259931841461772",
-      "interstitial": "1259586688162954_1259931304795159"
+      "active": true,
+      "banner": "470330128391419_470330965058002",
+      "native": "",
+      "interstitial": ""
     },
     "admob": {
       "mrec": "ca-app-pub-3940256099942544/6300978111",
