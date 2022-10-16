@@ -7,7 +7,7 @@
       "interstitial": "6a56aca3dce6b031"
     },
       "fan": {
-      "active": true,
+      "active": false,
       "banner": "470330128391419_470330965058002",
       "native": "",
       "interstitial": ""
@@ -27,9 +27,9 @@
       "interstitial": "5d8d4ea2-9e4a-4bc5-a023-c4a031747d67"
     },
     "ironsource": {
-      "id": "16936ec0d",
+      "id": "16d3167ad",
       "mrec": "DefaultMrec",
-      "active": false,
+      "active": true,
       "banner": "DefaultBanner",
       "interstitial": "DefaultInterstitial"
     }
