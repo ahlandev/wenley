@@ -7,10 +7,10 @@
       "interstitial": "6a56aca3dce6b031"
     },
       "fan": {
-      "active": false,
+      "active": true,
       "banner": "470330128391419_470330965058002",
-      "native": "",
-      "interstitial": ""
+      "native": "470330128391419_472160738208358",
+      "interstitial": "470330128391419_472160641541701"
     },
     "admob": {
       "mrec": "ca-app-pub-3940256099942544/6300978111",
@@ -29,7 +29,7 @@
     "ironsource": {
       "id": "16d3167ad",
       "mrec": "DefaultMrec",
-      "active": true,
+      "active": false,
       "banner": "DefaultBanner",
       "interstitial": "DefaultInterstitial"
     }
